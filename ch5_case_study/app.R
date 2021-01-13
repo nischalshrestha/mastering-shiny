@@ -1,7 +1,7 @@
 library(shiny)
 
 # uncomment this line if running app in a fresh R session
-source(here::here("ch5_case_study/analysis.R"))
+# source(here::here("ch5_case_study/analysis.R"))
 
 # app 1
 ui <- fluidPage(
